@@ -1,0 +1,8 @@
+# FAST API Practice
+
+# METHODS
+- GET
+- PUT
+- POST
+- DELETE
+
